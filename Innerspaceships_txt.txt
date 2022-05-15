@@ -1,3 +1,5 @@
 Innerspaceships are the best plain txt.
 I like the Enterprise of a certain number, star destroyers, and the Rocinante
-
+Test run on process of editing and pushing to Cloud, knowing that 2F 
+authentication from Terminal to Cloud may not work.  May have to route through 
+GitHub Desktop.
